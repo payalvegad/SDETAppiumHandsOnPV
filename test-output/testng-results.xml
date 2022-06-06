@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-06T12:33:47 IST" name="Default suite" finished-at="2022-06-06T12:33:51 IST" duration-ms="3950">
+    <groups>
+    </groups>
+    <test started-at="2022-06-06T12:33:47 IST" name="Default test" finished-at="2022-06-06T12:33:51 IST" duration-ms="3950">
+      <class name="appiumTest.TestToClickClass12BiologyAssignment5">
+        <test-method is-config="true" signature="launchWebsite()[pri:0, instance:appiumTest.TestToClickClass12BiologyAssignment5@29215f06]" started-at="2022-06-06T12:33:47 IST" name="launchWebsite" finished-at="2022-06-06T12:33:51 IST" status="PASS">
+        <reporter-output> 
+        </reporter-output>
+        </test-method> <!-- launchWebsite -->
+        <test-method signature="methodToClickClass12Biology()[pri:0, instance:appiumTest.TestToClickClass12BiologyAssignment5@29215f06]" started-at="2022-06-06T12:33:51 IST" name="methodToClickClass12Biology" finished-at="2022-06-06T12:34:04 IST" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodToClickClass12Biology -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:appiumTest.TestToClickClass12BiologyAssignment5@29215f06]" started-at="2022-06-06T12:33:51 IST" name="quitBrowser" finished-at="2022-06-06T12:34:13 IST" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- appiumTest.TestToClickClass12BiologyAssignment5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
